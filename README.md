@@ -1,2 +1,2 @@
-# VBA
-Repositório com algumas macros em VBA / Repository with some macros in VBA
+# VB
+Repositório com algumas macros em Visual Basic / Repository with some macros in Visual Basic
