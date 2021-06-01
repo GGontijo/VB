@@ -1,5 +1,5 @@
 'Esta macro serve para transferir um conjunto de células para um outro conjunto de células com filtro
-'This macro is used to transfer a group of cells to another group of cells with filters.
+'This macro is used to transfer a group of cells to a filtered group of cells
 
 Sub Copiar_para_celulas_filtradas()
     Set from = Selection
